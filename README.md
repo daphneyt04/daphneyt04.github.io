@@ -1,7 +1,7 @@
-# alexander mcneilly
+# daphney
 
-Exploring performance engineering, machine learning, and computer graphics in the browser.
+engineering / ML / computer graphics
 
 ### Contact
 
-[mcneilly [at] mit [dot] edu](mailto:mcneilly@mit.edu)
+[daphney.p.talekar [at] vanderbilt [dot] edu](mailto:daphney.p.talekar@vanderbilt.edu)
